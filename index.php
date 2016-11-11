@@ -10,6 +10,24 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
+        <div id="container">
+            <div id="header">
+                
+            </div>
+            <div id="menu">
+                
+            </div>
+            <div id="content">
+                <div id="content1">
+                    
+                </div>
+                <div id="content2">
+                    
+                </div>
+            </div>
+            <div id="footer"></div>
+        </div>
+        
         <?php
         // put your code here
         ?>

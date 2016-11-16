@@ -20,6 +20,15 @@
     height: 50px;
     background-color:#000 ;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000;
+}
+
 li {
     float: left;
 }

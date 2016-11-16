@@ -49,7 +49,11 @@ and open the template in the editor.
                     </p>
                 </div>
                 <div id="content2">
-                    <img src="img/home.jpg"/>
+                    <img src="img/home.jpg" class="img1"/>
+                    <img src="img/home2.png" class="img2"/>
+                </div>
+                <div id="content3">
+                    <img src="img/home1.jpg"/>
                 </div>
             </div>
             <div id="footer"></div>

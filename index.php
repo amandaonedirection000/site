@@ -18,7 +18,7 @@ and open the template in the editor.
             </div>
             <div id="menu">
                 <ul>
-                    <li><a class="active" href="#home">Home</a></li>
+                    <li><a class="active" href="home.php">Home</a></li>
                     <li><a href="produtos.php">Produtos</a></li>
                     <li><a href="servicos.php">Serviços</a></li>
                     <li><a href="contato.php">Contato</a></li>
@@ -40,8 +40,8 @@ and open the template in the editor.
                     <br>
                     <p class="parag">
                         Neste site poderás encontrar os mais variados tipos de produtos para seu computador, que vão desde peças  
-                        para "tunar" seu hardware caso você seja um explendido jogador, itens para apresentações para sua escola,
-                        serviços de recuperação de dados e criação de softwares melhorar o desempenho de sua empresa.
+                        para "tunar" seu hardware caso você seja um explendido jogador, itens de apresentações para sua escola,
+                        serviços de recuperação de dados e criação de softwares melhorar e o desempenho de sua empresa.
                     </p>
                     <br>
                     <p class="parag">

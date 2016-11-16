@@ -33,6 +33,9 @@ and open the template in the editor.
                 </div>
             </div>
             <div id="footer"></div>
+            <span>
+                Todos os direitos reservados - &copy; - 2016.
+            </span>
         </div>
 
         <?php

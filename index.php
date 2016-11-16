@@ -13,22 +13,28 @@ and open the template in the editor.
     <body>
         <div id="container">
             <div id="header">
-                
+                <img src="img/SA.jpg"/>
+
             </div>
             <div id="menu">
-                
+                <ul>
+                    <li><a class="active" href="#home">Home</a></li>
+                    <li><a href="#news">News</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="#about">About</a></li>
+                </ul>
             </div>
             <div id="content">
                 <div id="content1">
-                    
+
                 </div>
                 <div id="content2">
-                    
+
                 </div>
             </div>
             <div id="footer"></div>
         </div>
-        
+
         <?php
         // put your code here
         ?>

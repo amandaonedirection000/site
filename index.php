@@ -26,7 +26,15 @@ and open the template in the editor.
             </div>
             <div id="content">
                 <div id="content1">
-
+                    <h1>
+                        Bem vindo ao Site!
+                    </h1>
+                    <p>
+                        Este site foi criado por um certo grupo de estudantes do curso de Aprendizagem
+                        Industrial em Informática, que tinham como intúito criar uma empresa especializada em produtos e assistência
+                        relacionados a área de informática para poder colocar em prática os conhecimentos obtidos ao longo do curso.
+                    </p>
+                    <br>
                 </div>
                 <div id="content2">
 

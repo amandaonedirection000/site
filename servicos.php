@@ -26,10 +26,16 @@ and open the template in the editor.
             </div>
             <div id="content">
                 <div id="content1">
-
+                    <p>Oferecemos produtos de qualidade, manutenção segura e rápida, além de assistência ágil e correta.
+                        <br>
+                    Serviçoes empresariais e em domicílio.
+                    <br>
+                    Prezando sempre pela excelência e o bem estar do cliente.</p>
                 </div>
                 <div id="content2">
-
+                    <img src="img/servicos03.jpg"/>
+                    <img src="img/servicos02.jpg"/>
+                    <img src="img/servicos01.jpg"/>
                 </div>
             </div>
             <div id="footer"></div>

@@ -28,7 +28,7 @@ and open the template in the editor.
                 <div id="content1">
                     <h1 align="center">
                         <big>
-                        Bem vindo ao Site!
+                        Bem-Vindo ao Site!
                         </big>
                     </h1>
                     <br>

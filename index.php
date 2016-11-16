@@ -56,7 +56,9 @@ and open the template in the editor.
                     <img src="img/home1.jpg"/>
                 </div>
             </div>
-            <div id="footer"></div>
+            <div id="footer">
+                 <p>2016 &copy; - Todos os direitos reservados.</p>
+            </div>
         </div>
 
         <?php

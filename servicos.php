@@ -39,7 +39,7 @@ and open the template in the editor.
                 </div>
             </div>
             <div id="footer">
-
+                <p>2016 &copy; - Todos os direitos reservados.</p>
             </div>
         </div>
 

@@ -18,9 +18,8 @@ and open the template in the editor.
             </div>
             <div id="menu">
                 <ul>
-                    <li><a class="active" href="#home">Home</a></li>
-                    <li><a href="sobre.php">Sobre</a></li>
-                    <li><a href="produtos.php">Produtos</a></li>
+                    <li><a href="#home">Home</a></li>
+                    <li><a class="active" href="produtos.php">Produtos</a></li>
                     <li><a href="servicos.php">Serviços</a></li>
                     <li><a href="contato.php">Contato</a></li>
                 </ul>

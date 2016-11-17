@@ -25,8 +25,15 @@ and open the template in the editor.
                 </ul>
             </div>
             <div id="content">
-                <div id="content1">
-
+                <div id="contato">
+                    E-mail: informati_com@gmail.com
+                    <br>
+                    Telefone: (047) 91234-5678
+                    <br>
+                    Endereço:  Estr. das Madeiras, 3000 - Barragem, Rio do Sul - SC.
+                    <br>
+                    <div id="contato img">
+                    <img src="img/logo.png"/>
                 </div>
                 <div id="content2">
 

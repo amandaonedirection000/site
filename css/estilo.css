@@ -62,7 +62,7 @@ li a:hover:not(.active) {
 #content #contato img {
     width: 35%;
     padding-left: 400px;
-    
+
 }
 
 #content1 {
@@ -130,13 +130,12 @@ li a:hover:not(.active) {
 .titulo {
     width: 100%;
     text-align: center;
-    margin-top: 60px;
-    
+    margin-top: 30px;  
 }
 .promocao {
-    width: 150%;
+    width: 100%;
     text-align: center;
-    
+
 }
 .promocao .img {
     margin: 45px;
@@ -150,4 +149,10 @@ li a:hover:not(.active) {
 .promocao .img img {
     width: 100%;
     height: 180px;
+}
+
+#content5 {
+    width: 100%;
+    float: left;
+    padding: 10px;
 }

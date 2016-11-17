@@ -32,6 +32,7 @@ and open the template in the editor.
                     <br>
                     Endereço:  Estr. das Madeiras, 3000 - Barragem, Rio do Sul - SC.
                     <br>
+                    Reclamações: (047) 97865-4132
                     <div id="contato img">
                     <img src="img/logo.png"/>
                 </div>

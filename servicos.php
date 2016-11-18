@@ -28,7 +28,7 @@ and open the template in the editor.
                 <div id="content4">
                     <p class="parag"> - Oferecemos produtos de qualidade, manutenção segura e rápida, além de assistência ágil e correta.
                         <br>
-                        - Serviçoes empresariais e em domicílio.
+                        - Serviços empresariais e em domicílio.
                         <br>
                         - Prezando sempre pela excelência e o bem estar do cliente.
                     </p>

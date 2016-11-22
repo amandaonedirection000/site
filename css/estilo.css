@@ -2,6 +2,12 @@
     margin: auto;
     padding: 0;
 }
+
+body {
+    background-image: url("img/wallpaper.png");
+    
+}
+
 #container {
     width: 1200px;
 }

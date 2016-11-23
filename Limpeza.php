@@ -44,7 +44,7 @@
         </div>
         <div class="img">
             <a href="#">
-                <img src="img/55.png" width="300" height="200"/>
+                <img src="img/5.png" width="300" height="200"/>
             </a>
             <div class="desc">
                 Macbook Pro MJLT2BZ/A <br>
@@ -53,7 +53,7 @@
         </div>
         <div class="img">
             <a href="#">
-                <img src="img/ipad.jpg" width="300" height="200"/>
+                <img src="img/6.jpg" width="300" height="200"/>
             </a>
             <div class="desc">
                 Ipad mini Me280br/A<br>
@@ -62,7 +62,7 @@
         </div>
         <div class="img">
             <a href="#">
-                <img src="img/download.jpg" width="300" height="200"/>
+                <img src="img/7.jpg" width="300" height="200"/>
             </a>
             <div class="desc">
                 IPad Pro Apple <br>
@@ -71,7 +71,7 @@
         </div>
         <div class="img">
             <a href="#">
-                <img src="img/pen-drive.jpg" width="300" height="200"/>
+                <img src="img/8.jpg" width="300" height="200"/>
             </a>
             <div class="desc">
                 USB 2.0 black <br>
@@ -80,7 +80,7 @@
         </div>
         <div class="img">
             <a href="#">
-                <img src="img/impressora.jpg" width="300" height="200"/>
+                <img src="img/9.jpg" width="300" height="200"/>
             </a>
             <div class="desc">
                 Impressora 7110 WIFI/ A3 BIVOLT <br>
@@ -89,7 +89,7 @@
         </div> 
         <div class="img">
             <a href="#">
-                <img src="img/mouse.jpg" width="300" height="200"/>
+                <img src="img/10.jpg" width="300" height="200"/>
             </a>
             <div class="desc">
                 Mouse KMO-375BK  <br>
@@ -98,7 +98,7 @@
         </div>
         <div class="img">
             <a href="#">
-                <img src="img/6s.jpeg" width="300" height="200"/>
+                <img src="img/11.jpeg" width="300" height="200"/>
             </a>
             <div class="desc">
                 iPhone 6s Apple<br>
@@ -107,7 +107,7 @@
         </div>
         <div class="img">
             <a href="#">
-                <img src="img/controle.jpg" width="300" height="200"/>
+                <img src="img/12.jpg" width="300" height="200"/>
             </a>
             <div class="desc">
                 Controle sem fio Xbox 360 <br>

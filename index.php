@@ -23,6 +23,7 @@ and open the template in the editor.
                     <li><a class="<?=($_GET["pg"]=="servicos")?"active":"" ?>" href="?pg=servicos">Serviços</a></li>
                     <li><a class="<?=($_GET["pg"]=="contato")?"active":"" ?>" href="?pg=contato">Contato</a></li>
                      <li><a class="<?=($_GET["pg"]=="descarte")?"active":"" ?>" href="?pg=descarte">Descarte</a></li>
+                     <li><a class="<?=($_GET["pg"]=="faq")?"active":"" ?>" href="?pg=faq">FAQ</a></li>
                 </ul>
             </div>
             <div id="content">

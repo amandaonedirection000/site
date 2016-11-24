@@ -1,7 +1,7 @@
  
 <div id="content5">
     <div class="titulo">
-        <h1> A seguir mostraremos a vocês como fazer a limpeza de um computador corretamente.</h1>
+        <h1> A seguir mostraremos como fazer a limpeza de um computador corretamente</h1>
 
     </div>
     <hr> 
@@ -11,8 +11,8 @@
                 <img src="img/1.jpg" width="300" height="200"/>
             </a>
             <div class="desc">
-                Iphone 5s Apple <br>
-                R$ 1.999,00
+                Abrimos o gabinete <br>
+               
             </div> 
         </div>
         <div class="img">
@@ -20,8 +20,8 @@
                 <img src="img/2.jpg" width="300" height="200"/>
             </a>
             <div class="desc">
-                Tablet Samsung Galaxy Tab A <br>
-                R$ 1.599,00
+                Abrimos o gabinete <br>
+                
             </div> 
         </div>
         <div class="img">
@@ -29,8 +29,8 @@
                 <img src="img/3.jpg" width="300" height="200"/>
             </a>
             <div class="desc">
-                Macbook Air MJVG2BZ/A <br>
-                R$ 4.966,15
+                Retiramos os cabos e conectores <br>
+                
             </div> 
         </div>
         <div class="img">
@@ -38,17 +38,17 @@
                 <img src="img/4.jpg" width="300" height="200"/>
             </a>
             <div class="desc">
-                IMac Apple MF886BZ/A <br>
-                R$ 15.816,80
+                Retiramos o Drive de CD <br>
+                
             </div> 
         </div>
         <div class="img">
             <a href="#">
-                <img src="img/5.png" width="300" height="200"/>
+                <img src="img/5.jpg" width="300" height="200"/>
             </a>
             <div class="desc">
-                Macbook Pro MJLT2BZ/A <br>
-                R$ 5.399,15
+                Retiramos o Drive de CD <br>
+                
             </div> 
         </div>
         <div class="img">
@@ -56,8 +56,8 @@
                 <img src="img/6.jpg" width="300" height="200"/>
             </a>
             <div class="desc">
-                Ipad mini Me280br/A<br>
-                R$ 2.184,90
+                Retiramos o HD <br>
+               
             </div> 
         </div>
         <div class="img">
@@ -65,8 +65,8 @@
                 <img src="img/7.jpg" width="300" height="200"/>
             </a>
             <div class="desc">
-                IPad Pro Apple <br>
-                R$ 7.719,90
+                Retiramos a fonte <br>
+                
             </div> 
         </div>
         <div class="img">
@@ -74,8 +74,8 @@
                 <img src="img/8.jpg" width="300" height="200"/>
             </a>
             <div class="desc">
-                USB 2.0 black <br>
-                R$16,63
+                Retiramos o Cooler <br>
+                
             </div> 
         </div>
         <div class="img">
@@ -83,8 +83,8 @@
                 <img src="img/9.jpg" width="300" height="200"/>
             </a>
             <div class="desc">
-                Impressora 7110 WIFI/ A3 BIVOLT <br>
-                R$511,48
+                Retiramos o Processador <br>
+                
             </div> 
         </div> 
         <div class="img">
@@ -92,17 +92,17 @@
                 <img src="img/10.jpg" width="300" height="200"/>
             </a>
             <div class="desc">
-                Mouse KMO-375BK  <br>
-                R$40,47
+                Retiramos o Processador  <br>
+                
             </div> 
         </div>
         <div class="img">
             <a href="#">
-                <img src="img/11.jpeg" width="300" height="200"/>
+                <img src="img/11.jpg" width="300" height="200"/>
             </a>
             <div class="desc">
-                iPhone 6s Apple<br>
-                R$ 4.299.00
+                Repondo a pasta térmica <br>
+                
             </div> 
         </div>
         <div class="img">
@@ -110,8 +110,215 @@
                 <img src="img/12.jpg" width="300" height="200"/>
             </a>
             <div class="desc">
-                Controle sem fio Xbox 360 <br>
-                R$ 147,90
+                Repondo a pasta térmica  <br>
+              
+            </div> 
+        </div>
+        <div class="img">
+            <a href="#">
+                <img src="img/13.jpg" width="300" height="200"/>
+            </a>
+            <div class="desc">
+                Retirando a placa <br>
+               
+            </div> 
+        </div>
+        <div class="img">
+            <a href="#">
+                <img src="img/14.jpg" width="300" height="200"/>
+            </a>
+            <div class="desc">
+                Retirando Placa <br>
+               
+            </div> 
+        </div>
+        <div class="img">
+            <a href="#">
+                <img src="img/15.jpg" width="300" height="200"/>
+            </a>
+            <div class="desc">
+                Limpeza <br>
+               
+            </div> 
+        </div>
+        <div class="img">
+            <a href="#">
+                <img src="img/16.jpg" width="300" height="200"/>
+            </a>
+            <div class="desc">
+                Limpeza <br>
+               
+            </div> 
+        </div>
+        <div class="img">
+            <a href="#">
+                <img src="img/17.jpg" width="300" height="200"/>
+            </a>
+            <div class="desc">
+                Retirar a placa para limpeza do gabinete <br>
+               
+            </div> 
+        </div>
+        <div class="img">
+            <a href="#">
+                <img src="img/18.jpg" width="300" height="200"/>
+            </a>
+            <div class="desc">
+              p  Retirar a placa para limpeza do gabinete <br>
+              
+            </div> 
+        </div>
+        <div class="img">
+            <a href="#">
+                <img src="img/19.jpg" width="300" height="200"/>
+            </a>
+            <div class="desc">
+                 Recolocação dos componentes <br>
+             
+            </div> 
+        </div>
+        <div class="img">
+            <a href="#">
+                <img src="img/20.jpg" width="300" height="200"/>
+            </a>
+            <div class="desc">
+                 Recolocação dos componentes<br>
+               
+            </div> 
+        </div>
+        <div class="img">
+            <a href="#">
+                <img src="img/21.jpg" width="300" height="200"/>
+            </a>
+            <div class="desc">
+                 Recolocação dos componentes<br>
+                
+            </div> 
+        </div>
+        <div class="img">
+            <a href="#">
+                <img src="img/22.jpg" width="300" height="200"/>
+            </a>
+            <div class="desc">
+                 Recolocação dos componentes <br>
+               
+            </div> 
+        </div>
+        <div class="img">
+            <a href="#">
+                <img src="img/23.jpg" width="300" height="200"/>
+            </a>
+            <div class="desc">
+                Recolocação dos componentes <br>
+                
+            </div> 
+        </div>
+        <div class="img">
+            <a href="#">
+                <img src="img/24.jpg" width="300" height="200"/>
+            </a>
+            <div class="desc">
+                 Reconectando os cabos<br>
+              
+            </div> 
+        </div>
+        <div class="img">
+            <a href="#">
+                <img src="img/25.jpg" width="300" height="200"/>
+            </a>
+            <div class="desc">
+                 Reconectando os cabos<br>
+               
+            </div> 
+        </div>
+        <div class="img">
+            <a href="#">
+                <img src="img/26.jpg" width="300" height="200"/>
+            </a>
+            <div class="desc">
+                 Reconectando os cabos<br>
+               
+            </div> 
+        </div>
+        <div class="img">
+            <a href="#">
+                <img src="img/27.jpg" width="300" height="200"/>
+            </a>
+            <div class="desc">
+                 Reconectando os cabos<br>
+               
+            </div> 
+        </div>
+        <div class="img">
+            <a href="#">
+                <img src="img/28.jpg" width="300" height="200"/>
+            </a>
+            <div class="desc">
+                 Reconectando os cabos<br>
+             
+            </div> 
+        </div>
+        <div class="img">
+            <a href="#">
+                <img src="img/29.jpg" width="300" height="200"/>
+            </a>
+            <div class="desc">
+                 Recolocando o cooler<br>
+             
+            </div> 
+        </div>
+        <div class="img">
+            <a href="#">
+                <img src="img/30.jpg" width="300" height="200"/>
+            </a>
+            <div class="desc">
+                 Recolocando o cooler<br>
+                
+            </div> 
+        </div>
+        <div class="img">
+            <a href="#">
+                <img src="img/31.jpg" width="300" height="200"/>
+            </a>
+            <div class="desc">
+                 Recolocando o cooler<br>
+              
+            </div> 
+        </div>
+        <div class="img">
+            <a href="#">
+                <img src="img/32.jpg" width="300" height="200"/>
+            </a>
+            <div class="desc">
+                 Colocando a tampa do gabinete<br>
+               
+            </div> 
+        </div>
+        <div class="img">
+            <a href="#">
+                <img src="img/33.jpg" width="300" height="200"/>
+            </a>
+            <div class="desc">
+                Colocando a tampa do gabinete<br>
+              
+            </div> 
+        </div>
+        <div class="img">
+            <a href="#">
+                <img src="img/34.jpg" width="300" height="200"/>
+            </a>
+            <div class="desc">
+                  Colocando a tampa do gabinete<br>
+               
+            </div> 
+        </div>
+        <div class="img">
+            <a href="#">
+                <img src="img/35.jpg" width="300" height="200"/>
+            </a>
+            <div class="desc">
+                  Colocando a tampa do gabinete<br>
+                
             </div> 
         </div>
     </div>

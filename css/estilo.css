@@ -158,8 +158,14 @@ li a:hover:not(.active) {
     height: 180px;
 }
 
-#content5 {
-    width: 100%;
-    float: left;
+.boxpromocao .img { 
+    float: top;
     padding: 10px;
+    margin: auto;   
+    width: 400px;
+}
+
+
+.boxpromocao .img img{ 
+    margin: auto;
 }

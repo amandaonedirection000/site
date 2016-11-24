@@ -22,7 +22,7 @@
 </p>
 
 <br>
-<p> <b> 4- Por que há computadores com os mesmo componentes e com fontes diferentes? </b> <br>
+<p> <b> 4- Por que há computadores com os mesmos componentes e com fontes diferentes? </b> <br>
     Devido as regiões e a distribuição de energia. E vai do fabricante escolher uma fonte chaveada ou bivolt. </p>
 <br>
 

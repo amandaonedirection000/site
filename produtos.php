@@ -1,6 +1,6 @@
 <div id="content5">
     <div class="titulo">
-        <h1><big> Conheça Nossos Produtos</big></h1>
+        <h1><big> Conheça nossos produtos</big></h1>
 
     </div>
     <hr> 

@@ -1,7 +1,7 @@
 <h3>
     <div id="content">
         <div class="titulo">
-            <h1><big> Conheça Nossos Serviços</big></h1>  
+            <h1> Conheça nossos serviços</h1>  
         </div>
         <hr> 
         <div class="promocao">

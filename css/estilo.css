@@ -10,7 +10,7 @@ body {
 }
 
 #container {
-    width: 1200px;
+    width: 100%;
 }
 
 #header {
@@ -73,14 +73,17 @@ li a:hover:not(.active) {
 }
 
 #content1 {
-    width: 68%;
+    width: 45%;
     float: left;
     padding: 10px;
+   
+    
 }
 
 #content2 {
-    width: 29%;
+    width: 45%;
     float: left;
+    padding: 10px;
 }
 
 #footer {

@@ -22,5 +22,7 @@
     </p>
 </div>
 <div id="content2">
-    
+    <img src="img/home.jpg" class="img1"/>
+    <br>
+    <img src="img/home2.png" class="img2"/>
 </div>

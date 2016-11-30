@@ -1,7 +1,7 @@
-<div id="content1">
-    <h1 align="center">
+<div id="content7">
+    <h1>
         <big>
-            Configurações voltadas para a classe de clientes
+            Configurações voltadas para os clientes
         </big>
     </h1>
     <br>
@@ -53,10 +53,10 @@
             <br>
     </ol>
 </div>
-<div id="content2">
-    <h1 align="center">
+<div id="content8">
+    <h1>
         <big>
-            Configurações voltadas para a classe de funcionários
+            Configurações voltadas para os funcionários
         </big>
     </h1>
     <br>

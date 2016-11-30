@@ -172,3 +172,13 @@ li a:hover:not(.active) {
 .boxpromocao .img img{ 
     margin: auto;
 }
+.planta {
+    width: 100%;
+    text-align: center;
+}
+.planta .img {
+    width: 700px;
+    float: left;
+    height: 350px;
+    
+}

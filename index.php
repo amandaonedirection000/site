@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+,<!DOCTYPE html>
 <!--
 To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
@@ -27,6 +27,7 @@ and open the template in the editor.
                     <li><a class="<?= ($_GET["pg"] == "consultoria") ? "active" : "" ?>" href="?pg=consultoria">Consultoria</a></li>
                     <li><a class="<?= ($_GET["pg"] == "planta") ? "active" : "" ?>" href="?pg=planta">Planta</a></li>
                     <li><a class="<?= ($_GET["pg"] == "contato") ? "active" : "" ?>" href="?pg=contato">Contato</a></li>
+
                 </ul>
             </div>
             <div id="content">

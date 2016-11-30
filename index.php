@@ -25,7 +25,6 @@ and open the template in the editor.
                     <li><a class="<?= ($_GET["pg"] == "faq") ? "active" : "" ?>" href="?pg=faq">FAQ</a></li>
                     <li><a class="<?= ($_GET["pg"] == "limpeza") ? "active" : "" ?>" href="?pg=limpeza">Limpeza</a></li>
                     <li><a class="<?= ($_GET["pg"] == "consultoria") ? "active" : "" ?>" href="?pg=consultoria">Consultoria</a></li>
-                    <li><a class="<?= ($_GET["pg"] == "planta") ? "active" : "" ?>" href="?pg=planta">Planta</a></li>
                     <li><a class="<?= ($_GET["pg"] == "contato") ? "active" : "" ?>" href="?pg=contato">Contato</a></li>
 
                 </ul>

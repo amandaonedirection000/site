@@ -12,7 +12,7 @@
                         Passo 1 <br>
                         Abrimos o gabinete <br>
                         <a href="#">
-                            <img src="img/1.jpg" width="400" height="300"/>
+                            
                             <img src="img/2.jpg" width="400" height="300"/>
                         </a>
                     </div>

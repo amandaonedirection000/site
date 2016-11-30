@@ -14,7 +14,7 @@ body {
 }
 
 #header {
-    width: 100%;
+    width: 1200px;
     height: 200px;
 }
 #header img {
@@ -23,7 +23,7 @@ body {
 }
 
 #menu {
-    width: 100%;
+    width: 1200px;
     height: 40px;
     background-color:#000 ;
 }
@@ -34,6 +34,8 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #000;
+    font-family: arial, times;
+    font-size: 15px;
 }
 
 li {
@@ -44,7 +46,7 @@ li a {
     display: block;
     color: #FFFFFF;
     text-align: center;
-    padding: 15px 50px;
+    padding: 15px 40px;
     text-decoration: none;
 }
 
@@ -59,7 +61,7 @@ li a:hover:not(.active) {
 }
 
 #content {
-    width: 100%;
+    width: 1200px;
 }
 #content #contato {
     font-family: arial;
@@ -73,7 +75,7 @@ li a:hover:not(.active) {
 }
 
 #content1 {
-    width: 45%;
+    width: 60%;
     float: left;
     padding: 10px;
    
@@ -81,13 +83,13 @@ li a:hover:not(.active) {
 }
 
 #content2 {
-    width: 45%;
+    width: 35%;
     float: left;
     padding: 10px;
 }
 
 #footer {
-    width: 100%;
+    width: 1200px;
     clear: both;
     height: 40px;
     background-color: #000;

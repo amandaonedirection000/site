@@ -205,7 +205,6 @@ li a:hover:not(.active) {
     font-size: 15px;
     float: left;
 }
-
-#contato {
-    
+body {
+    background-color: #D3D3D3;
 }
